@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>Exit.ico</file>
+        <file>Restart.ico</file>
+        <file>save-icon.png</file>
+        <file>add-table.ico</file>
+        <file>delet-table.ico</file>
+        <file>raname-table.ico</file>
+        <file>preferences-icon.ico</file>
+        <file>help-icon.ico</file>
+        <file>createWallet.ico</file>
+        <file>closeWallet.ico</file>
+        <file>openWallet.ico</file>
+        <file>deleteWallet.ico</file>
+        <file>addEntry.ico</file>
+        <file>editEntry.ico</file>
+        <file>removeEntry.ico</file>
+        <file>USB.ico</file>
+        <file>Logout.ico</file>
+    </qresource>
+    <qresource prefix="/new/images">
+        <file>SEwalletLogo.png</file>
+        <file>cubes.jpg</file>
+    </qresource>
+</RCC>
