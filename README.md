@@ -1,6 +1,6 @@
 <img src="https://www.secube.blu5group.com/site/templates/dist/img/logo.png" style="color:#ffffff" width="400px" />
 
-# Secure-Wallet
+# SEcube™ Secure Wallet
 A secure, open-source password manager for the SEcube™ device.<br />
 
 Copyright (C) 2021 Blu5 Labs Ltd.
